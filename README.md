@@ -12,7 +12,7 @@ Learning path:
       - Python for everybody by professor Dr. Charles Severance (also known as Dr. Chuck) [Freecodecamp](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
       - Microsoft online training website [Microsoft training](https://docs.microsoft.com/en-us/learn/browse/?levels=beginner&terms=python)
  4. 📚 books: 
-      - [Automate the boring stuff] (https://automatetheboringstuff.com/) by Al Sweigart
+      - [Automate the boring stuff](https://automatetheboringstuff.com/) by Al Sweigart
       - [Python Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) by Eric Matthes
  5. 📺 videos (Youtube) 
  6. 💻 Python website [python official website](https://www.python.org/)
