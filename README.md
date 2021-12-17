@@ -14,7 +14,7 @@ Learning path:
  4. 📚 books: 
       - [Automate the boring stuff](https://automatetheboringstuff.com/) by Al Sweigart
       - [Python Crash Course](https://ehmatthes.github.io/pcc_2e/regular_index/) by Eric Matthes
- 5. 📺 videos (Youtube) 
- 6. 👨‍💻 Python website [python official website](https://www.python.org/)
+ 5. 📺 videos: Youtube 
+ 6. 👨‍💻 Python website: [python official website](https://www.python.org/)
  
 📫   reach me: [Linkedin](https://www.linkedin.com/in/dan-popa-8085357/) | [Twitter](https://twitter.com/danpopaa)
