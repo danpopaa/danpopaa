@@ -8,12 +8,12 @@ Learning path:
  1. 🌱 bootcamp: IT School 
  2. 📱 mobile apps to practice: Sololearn
  3. 💻 online courses: 
- -100 Days of Code: The Complete Python Pro Bootcamp for 2022 by Angela Yu (Udemy)
- -Python for everybody by prof Dr. Chuck (Freecodecamp) 
- -Microsoft online training website 
+      - 100 Days of Code: The Complete Python Pro Bootcamp for 2022 by Angela Yu (Udemy)
+      - Python for everybody by prof Dr. Chuck (Freecodecamp) 
+      - Microsoft online training website 
  4. 📚 books: 
- -Automate the boring stuff 
- -Python Crash Course 
+      - Automate the boring stuff 
+      - Python Crash Course 
  5. 📺 videos (Youtube) 
  6. 💻 blog/websites (realpython, python official website)
  
