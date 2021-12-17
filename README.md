@@ -17,4 +17,4 @@ Learning path:
  5. 📺 videos (Youtube) 
  6. 💻 blog/websites (realpython, python official website)
  
-📫 reach me: [Linkedin](https://www.linkedin.com/in/dan-popa-8085357/) | [Twitter](https://twitter.com/danpopaa) | [Email](dan.popa88@yahoo.com) 
+📫  reach me: [Linkedin](https://www.linkedin.com/in/dan-popa-8085357/) | [Twitter](https://twitter.com/danpopaa) | [Email](dan.popa88@yahoo.com) 
