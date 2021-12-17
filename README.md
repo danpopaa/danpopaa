@@ -17,4 +17,4 @@ Learning path:
  5. 📺 videos (Youtube) 
  6. 💻 Python website [python official website](https://www.python.org/)
  
-📫  reach me: [Linkedin](https://www.linkedin.com/in/dan-popa-8085357/) | [Twitter](https://twitter.com/danpopaa) | [Email](dan.popa88@yahoo.com) 
+📫  reach me: [Linkedin](https://www.linkedin.com/in/dan-popa-8085357/) | [Twitter](https://twitter.com/danpopaa)
